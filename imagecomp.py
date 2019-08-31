@@ -109,7 +109,7 @@ class quadtree():
         img.show();
 
         #Saves the new image in the local directory.
-        img.save('4.jpg')
+        img.save('CompressedImage.jpg')
 
 
 

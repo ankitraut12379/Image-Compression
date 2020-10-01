@@ -9,3 +9,7 @@ Level of compression can be chosen by user by selecting the level in the tree, t
 
 
 And thus the image is rendered with this updated RGB values of pixels.
+
+******************************************************************************************************************************************************************************
+Quadtrees are used in image compression, where each node contains the average colour of each of its children. The deeper you traverse in the tree, the more the detail of the image.
+Quadtrees are also used in searching for nodes in a two-dimensional area. 
